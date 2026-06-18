@@ -13,6 +13,9 @@ I lead engineering teams that keep large, regulated systems running reliably. Fo
 **Tech I work with**
 `Oracle` · `PL/SQL` · `SQL` · `Shell` · `.NET` · `APIs` · `ActiveBatch` · `GitLab CI/CD` · `UNIX/KSH`
 
+**Selected work**
+- [**cicd-pipeline-template**](https://github.com/matthumann/cicd-pipeline-template) — a branch-aware CI/CD pipeline (GitLab CI + GitHub Actions) with a `main`/`dev` trunk model, environment promotion (dev → staging → prod), a manual production-approval gate, and a defined rollback path. Reflects how I standardize delivery and governance at enterprise scale.
+
 **Let's connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthew-humann-58733a3a)
 - 📫 matt.humann@gmail.com
