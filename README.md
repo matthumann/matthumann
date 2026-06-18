@@ -14,6 +14,7 @@ I lead engineering teams that keep large, regulated systems running reliably. Fo
 `Oracle` · `PL/SQL` · `SQL` · `Shell` · `.NET` · `APIs` · `ActiveBatch` · `GitLab CI/CD` · `UNIX/KSH`
 
 **Selected work**
+- [**data-warehouse-reference**](https://github.com/matthumann/data-warehouse-reference) — a multi-source analytics warehouse: a consistent ingestion framework, idempotent loads, a pluggable DuckDB/BigQuery backend, FIFO inventory-aging analytics, and pipeline monitoring. Runs entirely locally on DuckDB, so CI executes the full pipeline end-to-end.
 - [**cicd-pipeline-template**](https://github.com/matthumann/cicd-pipeline-template) — a branch-aware CI/CD pipeline (GitLab CI + GitHub Actions) with a `main`/`dev` trunk model, environment promotion (dev → staging → prod), a manual production-approval gate, and a defined rollback path. Reflects how I standardize delivery and governance at enterprise scale.
 
 **Let's connect**
