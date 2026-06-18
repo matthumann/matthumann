@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Matt Humann 👋
 
-<!--
-**matthumann/matthumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Manager** — backend & data platforms, CI/CD, and legacy modernization at enterprise scale.
 
-Here are some ideas to get you started:
+I lead engineering teams that keep large, regulated systems running reliably. For 14+ years I've worked in Fortune 100 healthcare and pharmacy technology — owning CI/CD pipelines, batch and integration frameworks, and the modernization of legacy processing systems, all under SOX-grade governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I focus on**
+- 🚀 CI/CD and delivery standardization (GitLab)
+- 🧱 Modernizing legacy UNIX/KSH batch systems into reusable frameworks
+- 🛡️ DevOps governance — SOX compliance, audit traceability, release controls
+- 👥 Building, mentoring, and growing high-performing engineering teams
+
+**Tech I work with**
+`Oracle` · `PL/SQL` · `SQL` · `Shell` · `.NET` · `APIs` · `ActiveBatch` · `GitLab CI/CD` · `UNIX/KSH`
+
+**Let's connect**
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-humann-58733a3a)
+- 📫 matt.humann@gmail.com
