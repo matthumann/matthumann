@@ -15,6 +15,7 @@ I lead engineering teams that keep large, regulated systems running reliably. Fo
 
 **Selected work**
 - [**data-warehouse-reference**](https://github.com/matthumann/data-warehouse-reference) — a multi-source analytics warehouse: a consistent ingestion framework, idempotent loads, a pluggable DuckDB/BigQuery backend, FIFO inventory-aging analytics, and pipeline monitoring. Runs entirely locally on DuckDB, so CI executes the full pipeline end-to-end.
+- [**sql-toolkit**](https://github.com/matthumann/sql-toolkit) — reusable SQL & PL/SQL patterns: portable, CI-tested SQL (dedup, gaps-and-islands, running totals, data-quality checks) plus Oracle PL/SQL depth — an autonomous-transaction audit-logging package, SCD2 `MERGE`, `BULK COLLECT`/`FORALL`, a SOX-style audit trigger, and versioned migrations.
 - [**cicd-pipeline-template**](https://github.com/matthumann/cicd-pipeline-template) — a branch-aware CI/CD pipeline (GitLab CI + GitHub Actions) with a `main`/`dev` trunk model, environment promotion (dev → staging → prod), a manual production-approval gate, and a defined rollback path. Reflects how I standardize delivery and governance at enterprise scale.
 
 **Let's connect**
